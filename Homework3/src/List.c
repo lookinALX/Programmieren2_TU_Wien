@@ -154,21 +154,63 @@ void list_print(const struct List *self)
 
 struct List *list_clone(const struct List *other)
 {
-  // TODO
+  struct List *list_clone = list_new();
+  int size = list_size(other);
+  struct ListNode *tmp_node = other->entry->next;
+  for (int i = 0; i < size; i++)
+  {
+    struct Item tmp_value = tmp_node->value;
+    list_push_back(list_clone, &(tmp_value));
+    tmp_node = tmp_node->next;
+  }
+  return list_clone;
 }
 
 void list_reverse(struct List *self)
 {
-  // TODO
+  struct ListNode *node_first = self->entry;
+  struct ListNode *node_second = self->entry->next;
+  int size = list_size(self);
+
+  for (int i = 0; i < size + 1; i++)
+  {
+    node_second->prev = node_second->next;
+    node_second->next = node_first;
+    node_first = node_second;
+    node_second = node_second->prev;
+  }
 }
 
 void list_concat(struct List *dest, struct List *src)
 {
-  // TODO
+  int size = list_size(src);
+  struct ListNode *tmp_node = src->entry;
+  tmp_node->next = src->entry->next;
+  tmp_node->prev = src->entry->prev;
+
+  dest->entry->prev->next = tmp_node->next;
+  tmp_node->prev->next = dest->entry;
+  tmp_node->next->prev = dest->entry->prev;
+
+  src->entry->next = src->entry;
+  src->entry->prev = src->entry;
 }
 
 struct ListNode *list_find(struct ListNode *start, struct ListNode *end,
                            bool (*predicate)(const T *value))
 {
-  // TODO
+  struct ListNode *node_next = start;
+
+  while (node_next != end)
+  {
+    if (predicate(&(node_next->value)))
+    {
+      return node_next;
+    }
+    else
+    {
+      node_next = node_next->next;
+    }
+  }
+  return end;
 }
