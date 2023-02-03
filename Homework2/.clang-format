@@ -1,0 +1,24 @@
+---
+Language:        Cpp
+# BasedOnStyle:  default LLVM + Microsoft + customs from iue below
+# from IUE
+ColumnLimit:     80
+TabWidth:        4
+IndentWidth:     2
+# from MS-style: clang-format -style=Microsoft -dump-config > .clang-format-ms
+AllowShortFunctionsOnASingleLine: None
+BraceWrapping:
+  AfterClass:      true
+  AfterControlStatement: true
+  AfterEnum:       true
+  AfterFunction:   true
+  AfterNamespace:  true
+  AfterObjCDeclaration: true
+  AfterStruct:     true
+  BeforeCatch:     true
+  BeforeElse:      true
+BreakBeforeBraces: Custom
+PenaltyReturnTypeOnItsOwnLine: 1000
+PointerAlignment: Right
+SortIncludes: false
+...
