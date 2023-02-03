@@ -1,0 +1,25 @@
+cmake_minimum_required(VERSION 3.16)
+
+add_executable(test_hashtable_new_delete test_hashtable_new_delete.c)
+target_link_libraries(test_hashtable_new_delete HashTable)
+add_test(NAME test_hashtable_new_delete COMMAND test_hashtable_new_delete)
+
+add_executable(test_hashtable_insert test_hashtable_insert.c)
+target_link_libraries(test_hashtable_insert HashTable)
+add_test(NAME test_hashtable_insert COMMAND test_hashtable_insert)
+
+add_executable(test_hashtable_find test_hashtable_find.c)
+target_link_libraries(test_hashtable_find HashTable)
+add_test(NAME test_hashtable_find COMMAND test_hashtable_find)
+
+add_executable(test_hashtable_erase test_hashtable_erase.c)
+target_link_libraries(test_hashtable_erase HashTable)
+add_test(NAME test_hashtable_erase COMMAND test_hashtable_erase)
+
+add_executable(test_hashtable_clear test_hashtable_clear.c)
+target_link_libraries(test_hashtable_clear HashTable)
+add_test(NAME test_hashtable_clear COMMAND test_hashtable_clear)
+
+add_executable(test_hashtable_resize test_hashtable_resize.c)
+target_link_libraries(test_hashtable_resize HashTable)
+add_test(NAME test_hashtable_resize COMMAND test_hashtable_resize)

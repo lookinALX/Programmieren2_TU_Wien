@@ -1,0 +1,10 @@
+22363;USB Mass Storage: Designing and Programming Devices and Embedded Hosts;Axelson J.;2006;304
+22366;Beginning RSS and Atom Programming;Danny Ayers,Andrew Watt;2005;769
+22679;XML Programming Bible;Brian Benz,John Durant,John Durant;2003;987
+22818;Effective Java: programming language guide;Joshua Bloch;2001;272
+22951;Mathematical Programming for Data Mining: Formulations and Chalenges;Bradley P.S.,Fayyad U.M.,Mangasarian O.L.;1998;35
+23135;Efficient C++ performance programming techniques;Dov Bulka,David Mayhew;1999;205
+23155;Beginning Programming with Java For Dummies;Barry Burd;2005;408
+23201;Asp.Net Database Programming Weekend Crash Course;Jason Butler,Tony Caudill;2002;409
+23423;An introduction to programming in emacs lisp;Robert J. Chassell;2001;314
+23431;C programming;Cheltenham Computer Training;1997;383

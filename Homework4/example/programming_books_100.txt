@@ -1,0 +1,100 @@
+22363;USB Mass Storage: Designing and Programming Devices and Embedded Hosts;Axelson J.;2006;304
+22366;Beginning RSS and Atom Programming;Danny Ayers,Andrew Watt;2005;769
+22679;XML Programming Bible;Brian Benz,John Durant,John Durant;2003;987
+22818;Effective Java: programming language guide;Joshua Bloch;2001;272
+22951;Mathematical Programming for Data Mining: Formulations and Chalenges;Bradley P.S.,Fayyad U.M.,Mangasarian O.L.;1998;35
+23135;Efficient C++ performance programming techniques;Dov Bulka,David Mayhew;1999;205
+23155;Beginning Programming with Java For Dummies;Barry Burd;2005;408
+23201;Asp.Net Database Programming Weekend Crash Course;Jason Butler,Tony Caudill;2002;409
+23423;An introduction to programming in emacs lisp;Robert J. Chassell;2001;314
+23431;C programming;Cheltenham Computer Training;1997;383
+23526;Beginning Object-Oriented Programming with VB 2005: From Novice to Professional;Daniel R. Clark;1980;385
+23624;Professional SQL Server 2005 CLR Programming: with Stored Procedures, Functions, Triggers, Aggregates, and Types;Derek Comingore,Douglas Hinson;2006;432
+23841;Guide to Assembly Language Programming in Linux;Sivarama P. Dandamudi;2005;539
+23911;Beginning C++ Game Programming;Dawson M.;2006;352
+23926;Programming Java 2 Micro Edition for Symbian OS: A developer's guide to MIDP 2.0;Martin de Jode;2004;471
+23937;Game Programming All in One;Bruno Miguel Teixeira de Sousa;2002;991
+24040;Studies in Integer Programming;P.L. Hammer, E.L. Johnson, B.H. KorteandG.L. Nemhauser (Eds.);1977;1
+24633;Essentials of Programming Languages;Daniel P. Friedman,Mitchell Wand,Christopher T. Haynes;2001;463
+24723;Pro Crystal Enterprise / BusinessObjects XI Programming;Jr.,Carl Ganz;2006;484
+24935;ASP programming for the absolute beginner;John W. Gosney;2002;337
+25017;Professional Oracle Programming;Rick  Greenwald,Robert  Stackowiak,Gary  Dodge,David  Klein,Ben  Shapiro,Christopher G. Chelliah;2005;793
+25037;Programming Windows Presentation Foundation;Chris Sells,Ian Griffiths;2005;539
+25053;Foundations of object-oriented programming using .NET 2.0 patterns;Christian Gross;2006;377
+25071;Programming Visual Basic .NET;Dave Grundgeiger;2002;398
+25164;Programming Linux Games;Loki Software,John R. Hall,Loki Software Inc;2001;433
+25180;CGI Programming 101;Jacqueline Hamilton;2004;78
+25197;IPv6 Network Programming;Jun-ichiro itojun Hagino;2005;374
+25311;Smarty Php Template Programming And Applications;Hasin Hayder,J. P. Maia,Lucian Gheorghe;2006;254
+25325;Programming Spiders, Bots, and Aggregators in Java;Jeff Heaton;2002;485
+25385;Advanced CORBA Programming with C++;Michi Henning,Steve Vinoski;1999;885
+25407;Teach Yourself CGI Programming with PERL 5 in a Week;Eric Herrmann;1996;459
+25659;Java Servlet Programming;Jason Hunter;1998;528
+25889;Beginning Lua Programming;Kurt Jung,Aaron Brown;2007;673
+25891;Pro OGRE 3D Programming;Gregory Junker;2006;311
+26127;Beginning Programming;Adrian  Kingsley-Hughes,Kathie Kingsley-Hughes;2005;481
+26273;Genetic programming: on the programming of computers by means of natural selection;John R. Koza;1992;609
+26281;C N C: Technology and Programming;Steve Krar,Arthur Gill;1989;51
+26381;Expert Oracle Database Architecture: 9i and 10g Programming Techniques and Solutions;Thomas Kyte;2005;769
+26421;Tricks of the Windows game programming gurus;Andre Lamothe;1999;950
+26422;Tricks of the Windows Game Programming Gurus;Lamothe A.;1999;1029
+26488;Concurrent Programming in Java: Design Principles and Pattern;Doug Lea;1999;317
+26512;Programming Sudoku;Wei-Meng Lee;2006;232
+26534;Learn Vertex and Pixel Shader Programming with DirectX 9;James Leiterman;2004;304
+26630;Programming C#;Jesse Liberty;2002;586
+26653;Advanced Linux 3D Graphics Programming;Norman Lin;2001;640
+26801;Introduction to 3D game programming with DirectX 9.0;Frank D. Luna;2003;421
+27029;Functional Programming Using Calm Light;Mauny M.;1995;140
+882656;Extreme Programming planen;Kent Beck,Martin Fowler;2001;0
+27134;Advanced Graphics Programming Using OpenGL;Tom McReynolds,David Blythe;2005;672
+27241;C++ In Action: Industrial Strength Programming Techniques;Bartosz Milewski;2001;348
+27305;Concepts in Programming Languages;John C. Mitchell,Krzysztof Apt;2001;584
+27306;Advanced Linux Programming;Mitchell M.,Oldham J.,Samuel A.;2001;368
+27345;Maple 7 Programming Guide;Monagan M.B.,Gedes K.O.,Heal K.M.;2001;642
+27478;C++ Programming with the Standard Template Library;Musser D.R.,Derge G.J.,Saini A.;2001;545
+27574;OpenGL Programming Guide;Mason Woo,Jackie Neider,Tom Davis,OpenGL Architecture Review Board;1997;616
+27696;Java Database Programming Bible;John O'Donahue;2002;686
+27964;Programming Microsoft Windows with C#;Charles Petzold;2001;1075
+28025;C++ by Dissection: The Essentials of C++ Programming;Pohl;2002;520
+28182;AI Game Programming Wisdom;Steve Rabin;2002;658
+28271;Database Programming with JDBC and Java;George Reese;2000;253
+28277;The Linux development platform: configuring, using, and maintaining a complete programming environment;Rafeeq Ur Rehman,Christopher Paul;2003;317
+28290;Java Network Programming and Distributed Computing;David Reilly,Michael Reilly;2002;351
+28324;Palm Programming: The Developer's Guide;Neil Rhodes,Julie McKeehan;1998;355
+28333;C/C++ programming style guidelines;Richards F.;-1;28
+28342;Applied Microsoft.NET framework programming;Jeffrey Richter;2002;500
+28545;PHP Game Programming;Matt Rutledge;2004;377
+28690;Advanced Php Programming: A Practical Guide to Developing Large-Scale Web Sites and Applications With Php 5;Gorg Schlossnagl;2004;673
+28988;Excel Programming: Your Visual Blueprint for Creating Interactive Spreadsheets;Jinjer Simon;2001;352
+29034;Programming Challenges: The Programming Contest Training Manual;Steven S. Skiena,Miguel Revilla;2003;379
+29182;Advanced Perl Programming;Sriram Srinivasan;1997;549
+29254;PHP Programming with PEAR;Schmidt Stephan,Stoyan Stefanov,Wormus Aaron,Lucke Carsten;2006;290
+29266;The Art of Prolog: Advanced Programming Techniques;Sterling L.S.,Shapiro E.;1994;277
+29326;The C++ programming language;Bjarne Stroustrup;1997;923
+29538;Tutorial: XML programming in Java;Tidwell D.;1999;59
+29724;Programming Microcontrollers in C;Ted VanSickle;2001;470
+29742;C++ Programming How-To;Vasudevan A.;2001;62
+29749;Sams Teach Yourself Shell Programming in 24 Hours;Sriranga Veeraraghavan;1999;593
+29769;Beginning SQL Server 2005 Programming;Robert Vieira;2006;720
+29770;Professional SQL Server 2005 Programming;Robert Vieira;2007;913
+29827;Extreme programming explored;William C. Wake;2001;158
+29858;Linux programming unleashed;Wall K.,Watson M.,Whitis M.;1999;847
+29859;Programming Perl;Larry Wall,Tom Christiansen,Jon Orwant;2000;1107
+29898;Beginning Programming for Dummies;Wallace Wang;2004;433
+30290;3D Game Engine Programming;Stefan Zerbst,Oliver Duvel;2004;897
+34724;ACM transactions on programming languages and systems (January);NA;2005;184
+35388;Introduction to C# Programming for the Microsoft(R) .NET Platform;NA;2001;812
+35402;Java Programming;Various;1998;207
+35753;Principles of programming;Calvin Lin,Larry Snyder;2008;526
+36272;MATLAB Programming;David Kuncicky;2003;267
+880536;Fundamentals of engineering programming with C and Fortran;Harley R Myler;1998;223
+706163;Programming Concurrency on the JVM;Suhramaniam V.;2011;282
+53829;Michael Abrash's Graphics Programming Black Book;Michael Abrash;1997;1450
+53891;Excel Programming Weekend Crash Course;Peter G. Aitken;2003;458
+53921;Programming Windows Workflow Foundation;K. Scott Allen;2006;249
+53973;Professional WPF Programming: .NET Development with the Windows Presentation Foundation;Chris Andrade,Shawn Livermore,Mike Meyers,Scott Van Vliet;2007;482
+54027;Database Programming Languages: 11th International Symposium, DBPL 2007, Vienna, Austria, September 23-24, 2007, Revised Selected Papers;Wenfei Fan (auth.),Marcelo Arenas,Michael I. Schwartzbach (eds.);2007;264
+54032;Programming ERLANG: Software for a Concurrent World;Joe Armstrong;2007;519
+54064;Beginning OpenGL Game Programming;Dave Astle,Kevin Hawkins;2004;337
+54071;Extreme Programming Applied: Playing to Win;Ken Auer,Roy Miller;2001;192
+54100;Learn OpenOffice.org Spreadsheet Macro Programming;Dr Mark Alexander Bain;2006;216
